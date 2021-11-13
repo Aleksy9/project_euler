@@ -4,7 +4,7 @@ project(project)
 
 # Makes executable
 #add_executable(${PROJECT_NAME} main.cpp glad.c EBO.cpp shaderClass.cpp VAO.cpp)
-add_executable(${PROJECT_NAME} problem2.cpp)
+add_executable(${PROJECT_NAME} problem4.cpp)
 
 
 # Cmake can find subdirectory
